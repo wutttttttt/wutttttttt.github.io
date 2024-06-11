@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I have recieved I my Bachelor of Engineering degree in Automation from China University of Mining and Technology in June 2023. I am now a first-year postgraduate student from[school of saa](https://saa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). My research interest includes robust control and multi-agent system.
+I have recieved I my Bachelor of Engineering degree in Automation from China University of Mining and Technology in June 2023. I am now a first-year postgraduate student from [school of saa](https://saa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). My research interest includes robust control and multi-agent system.
 
 
 
