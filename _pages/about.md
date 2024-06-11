@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "T.Wu - Homepage"
+title: "T.Wu "
 author_profile: true
 redirect_from: 
   - /about/
